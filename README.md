@@ -14,9 +14,9 @@ This repository contains tools for the PP grammar description language from
 
 It provides a major mode for editing PP grammars with the following features:
 
-- syntax coloration
-- auto-indentation
-- Imenu support
+- Syntax coloration,
+- Auto-indentation,
+- Imenu support.
 
 ![PP Major mode screenshot](http://central.hoa-project.net/Resource/Contributions/Emacs/Pp/screenshots/sample.png?format=raw)
 
